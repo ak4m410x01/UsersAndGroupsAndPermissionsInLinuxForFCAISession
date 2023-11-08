@@ -1,12 +1,12 @@
-# Users
+# 1. Users
 
 ## Outline
 
-#### 1. Create User
+#### 1.1 Create User
 
-#### 2. Modify User
+#### 2.2 Modify User
 
-#### 3. Delete User
+#### 3.2 Delete User
 
 ---
 
@@ -123,4 +123,4 @@
 
 ---
 
-## [Outlines](./README.md)
+## [Outlines](../README.md)
