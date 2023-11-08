@@ -1,5 +1,13 @@
 # 1. Users
 
+<div align="center">
+  <img src="./assets/images/users_in_system.jpg" width="100%">
+</div>
+
+---
+
+---
+
 ## Outline
 
 #### 1.1 Create User
