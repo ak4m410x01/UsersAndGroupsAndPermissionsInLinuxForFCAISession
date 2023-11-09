@@ -16,7 +16,7 @@
 
 #### 3. [Permission](./Permission/README.md)
 
-#### 4. Ownership
+#### 4. [Ownership](./Ownership/README.md)
 
 #### 5. Suders
 
