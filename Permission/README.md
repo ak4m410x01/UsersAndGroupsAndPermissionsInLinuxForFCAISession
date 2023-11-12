@@ -191,7 +191,7 @@ chmod 772 file.txt
 
 **_Effect on Files: Files execute as the user that owns the file, not the user that run the file._**
 
-##### Senario:
+##### Scenario:
 
 ###### 1. CREATE USER='abdullah'
 
@@ -209,7 +209,7 @@ chmod 772 file.txt
   <img src="./assets/images/speical_permissions_senario.jpg" width="100%">
 </div>
 
-##### Answer of senario
+##### Answer to scenario
 
 ###### **The Command `password==/bin/passwd` has a SUID permissions. **
 
@@ -217,7 +217,7 @@ chmod 772 file.txt
   <img src="./assets/images/bin_passwd_with_suid.jpg" width="100%">
 </div>
 
-##### Senario:
+##### Scenario:
 
 ###### 1. Remove SUID from /bin/passwd
 
@@ -318,18 +318,18 @@ chmod 1744 file.txt
 
 #### ROOT UMASK: 022
 
-022
-000 010 010
-111 101 101
-rwx r-x r-x: Dirs
+022 <br>
+000 010 010 <br>
+111 101 101 <br>
+rwx r-x r-x: Dirs <br>
 rw- r-- r--: Files
 
 #### Normal User UMASK: 002
 
-002
-000 000 010
-111 111 101
-rwx rwx r-x: Dirs
+002 <br>
+000 000 010 <br>
+111 111 101 <br>
+rwx rwx r-x: Dirs <br>
 rw- rw- r--: Files
 
 ```bash
